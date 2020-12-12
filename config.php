@@ -7,8 +7,10 @@
  * @date        12/12/2020
  * @author      Abdellah B
  * */
-if (!defined('PLX_ROOT'))
+if (!defined('PLX_ROOT')) {
     exit;
+}
+    
 # Control du token du formulaire
 plxToken::validateFormToken($_POST);
 
