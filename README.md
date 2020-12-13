@@ -7,4 +7,8 @@ Je l'ai testé seulement sur la version 5.8.4 de pluxml (la dernière) et seulem
 
 Le plugin est basé sur plxMyCaptchaImage donc il se comporte de la même manière.
 
-Il faut s'inscrire sur le site Hcaptcha et récupérer 2 clés pour que ça fonctionne avec votre compte (la clé Sitekey et la clé secrète) et bien-sûr il faut renseigner ces 2 clés dans la configuration du plugin.
+# Installation
+* Décompressez le plugin et placez le dossier plxHCaptcha dans /plugins/
+* Ensuite il faut s'inscrire sur le site Hcaptcha.com et récupérer 2 clés pour que ça fonctionne avec votre compte (la clé Sitekey et la clé secrète)
+* Activez le plugin dans le panneau d'administration de PluXML (Paramètres > Plugins > Plugins inactifs)
+* Allez dans la configuration du plugin et remplissez les champs Sitekey et clé secrète avec vos identifiants de chez Hcaptcha.com)
