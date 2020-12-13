@@ -6,5 +6,5 @@
 	<date>12/12/2020</date>
 	<site>https://geekborg.blogspot.com</site>
 	<description><![CDATA[Hcaptcha Plugin]]></description>
-	<requirements></requirements>
+	<scope>site</scope>
 </document>
