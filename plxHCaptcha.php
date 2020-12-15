@@ -12,7 +12,7 @@ class plxHCaptcha extends plxPlugin {
      * @return	null
      * @author	Stéphane F. Abdellah B
      * */
-    public $json;
+    private $json;
 
     public function __construct($default_lang) {
 
